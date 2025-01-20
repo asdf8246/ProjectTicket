@@ -1,0 +1,7 @@
+<%@ page language="java" pageEncoding="UTF-8"%>
+<div class="pure-menu pure-menu-horizontal" style="height: 50px; align-content: center;">
+	<!-- menu bar -->
+	<a href="/ticket/index.html" class="pure-menu-heading pure-menu-link">首頁</a>
+	<a href="/ticket/event" class="pure-menu-heading pure-menu-link">活動管理</a>
+	<a href="/ticket/event/add" class="pure-menu-heading pure-menu-link">新增活動</a>
+</div>
