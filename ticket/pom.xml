@@ -148,7 +148,12 @@
 		    <version>20240303</version>
 		</dependency>
 
-		
-	</dependencies>
+
+		<dependency>
+			<groupId>com.example</groupId>
+			<artifactId>ticket-spring-ssr</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+  </dependencies>
 	
 </project>
